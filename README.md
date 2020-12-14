@@ -1,6 +1,6 @@
 # On Biases of Attention in Scientific Discovery
 
-This repository provides a reference data used in the paper:<br>
+This repository provides the data used in the paper:<br>
 > On Biases of Attention in Scientific Discovery<br>
 > Uriel Singer, Kira Radinsky and Eric Horvitz<br>
 > Bioinformatics<br>
@@ -31,7 +31,7 @@ In the experiments, the PPI graph of year y includes all interactions among prot
 | publication_dates 	| Publication date of the pubmed papers (extracted using pubmed crawler)     	|
 | discovery_date    	| The minumum publication date                                               	|
 
-For further explainations you may visit [HitPredict](http://www.hitpredict.org/help.html)
+For further explainations visit [HitPredict](http://www.hitpredict.org/help.html)
 
 ### Citing
 If you find this repository useful for your research, please consider citing the following paper:
