@@ -1,9 +1,12 @@
 # On Biases of Attention in Scientific Discovery
 
 This repository provides the data used in the paper:<br>
+
+
 > On Biases of Attention in Scientific Discovery<br>
 > Uriel Singer, Kira Radinsky and Eric Horvitz<br>
-> Bioinformatics<br>
+> Bioinformatics, 2020<br>
+> https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaa1036/35065085/btaa1036.pdf<br>
 
 ### Data
 The protein interaction information used in the study was drawn from HitPredict [[1]](#1). HitPredict contains a list of all protein interactions, where each interaction includes a list of all published articles where it is mentioned.
@@ -36,11 +39,18 @@ For further explainations visit [HitPredict](http://www.hitpredict.org/help.html
 ### Citing
 If you find this repository useful for your research, please consider citing the following paper:
 
-	@inproceedings{biases-of-attention,
-	  title     = {On Biases of Attention in Scientific Discovery},
-	  author    = {Singer, Uriel and Radinsky, Kira and Horvitz, Eric},
+	@article{10.1093/bioinformatics/btaa1036,
+	    author = {Singer, Uriel and Radinsky, Kira and Horvitz, Eric},
+	    title = "{On biases of attention in scientific discovery}",
+	    journal = {Bioinformatics},
+	    year = {2020},
+	    month = {12},
+	    issn = {1367-4803},
+	    doi = {10.1093/bioinformatics/btaa1036},
+	    url = {https://doi.org/10.1093/bioinformatics/btaa1036},
+	    note = {btaa1036},
+	    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaa1036/35065085/btaa1036.pdf},
 	}
-
 
 ### References
 <a id="1">[1]</a> 
